@@ -302,35 +302,30 @@ Result:
 
 ## GitHub
 
-```text
-Add GitHub repository link here
-```
-
----
+[GitHub Repository](https://github.com/AyatAlhussien/tech-store-react)
 
 ## Live Preview
 
-```text
-Add deployed preview link here
-```
+[View Live Website](https://heroic-brioche-dad08d.netlify.app)
 
 ---
 
 ## Screenshots
 
-Add screenshots for:
+### Desktop
+![Desktop Home](screenshots/01_desktop_home.png)
 
-- Home Page
-- Products Page
-- Product Details
-- Shopping Cart
-- Checkout
-- Login
-- Profile
-- Admin Dashboard
-- Desktop View
-- Tablet View
-- Mobile View
+### Tablet
+![Tablet Home](screenshots/02_tablet_home.png)
+
+### Mobile
+![Mobile Home](screenshots/03_mobile_home.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/04_admin_dashboard.png)
+
+### Build Success
+![Build Success](screenshots/05_build_success.png)
 
 ---
 
